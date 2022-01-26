@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286850078884",
+    "project_id": "fir-cludeapp",
+    "storage_bucket": "fir-cludeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286850078884:android:8028b017005cf2c1852e31",
+        "android_client_info": {
+          "package_name": "com.example.firebasecludeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286850078884-50l0uaa1is4qokdm8ik8qcp64krivjmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq32rlqPDWyNaKSVV-vp7Y3WVDEOShQ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286850078884-50l0uaa1is4qokdm8ik8qcp64krivjmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
